@@ -1,0 +1,137 @@
+[
+  {
+    "_id": "21388275-c221-4a94-b455-080697cf251f",
+    "name": "aisha",
+    "email": "aishaahmed2987@gmail.com",
+    "password": "$2a$10$A3r7Ri79cYIMNN6va5iE/.iznItU4PuN2NCW8D6xrUDxy//LeWjWS",
+    "role": "employer",
+    "onboardingComplete": false,
+    "onboardingData": null,
+    "createdAt": "2026-08-22T08:16:03.450Z",
+    "updatedAt": "2026-08-22T08:16:03.450Z"
+  },
+  {
+    "_id": "f261b643-4829-4fe5-9579-8289e7173124",
+    "name": "Fida Akhunji",
+    "email": "fida@gmail.com",
+    "password": "$2a$10$V85qoYArWF2Rb14RCzISueIWiktxuJG7YLBSydI2/TERj14b1GDLa",
+    "role": "employer",
+    "onboardingComplete": false,
+    "onboardingData": null,
+    "createdAt": "2026-08-22T08:19:40.028Z",
+    "updatedAt": "2026-08-22T08:19:40.028Z"
+  },
+  {
+    "_id": "c54d4d3d-bd4d-4edc-80eb-dc199eac5959",
+    "name": "Aisha Ahmed",
+    "email": "ahmedaisha242@gmail.com",
+    "password": "$2a$10$3ZfxirtJByRK.RCMQODZFufJmHBdlevI/MY9wje19bhutnr46imS2",
+    "role": "employer",
+    "onboardingComplete": false,
+    "onboardingData": null,
+    "createdAt": "2026-08-22T08:20:42.964Z",
+    "updatedAt": "2026-08-22T08:20:42.964Z"
+  },
+  {
+    "_id": "29780078-09a8-4053-b948-14121e20bb15",
+    "name": "fida",
+    "email": "aisha12@gmail.com",
+    "password": "$2a$10$Ot0gww6jbdC1MBfReMGsT.uiSejTvtcetC9Ce5MMLVA867Jll..2W",
+    "role": "employee",
+    "company": "",
+    "requiresPasswordReset": true,
+    "onboardingComplete": false,
+    "onboardingData": null,
+    "createdAt": "2026-08-22T11:43:42.759Z",
+    "updatedAt": "2026-08-24T06:30:59.445Z"
+  },
+  {
+    "_id": "e467c4a7-f56c-4dde-be36-44a24639eb46",
+    "name": "fida",
+    "email": "fidaakhunji1@gmail.com",
+    "password": "$2a$10$dGbFa8Nu.eAD0qefvJG3GOWGNXY5E9NhwI8TAQIqrSNTvu7aD7Q/6",
+    "role": "employee",
+    "company": "",
+    "requiresPasswordReset": true,
+    "onboardingComplete": false,
+    "onboardingData": null,
+    "createdAt": "2026-08-22T11:45:52.178Z",
+    "updatedAt": "2026-08-24T06:30:44.007Z"
+  },
+  {
+    "_id": "6f90d35a-09c1-44a5-a2bc-15705baba5d1",
+    "name": "SANIA NABEEL",
+    "email": "sania@gmail.com",
+    "password": "$2a$10$taKoD.H2V83qGvR6y.leVeZPRr0TU2mqve.le5xhrelTwU0TBKX4q",
+    "role": "employee",
+    "company": "",
+    "requiresPasswordReset": true,
+    "onboardingComplete": false,
+    "onboardingData": null,
+    "createdAt": "2026-08-22T11:52:58.672Z",
+    "updatedAt": "2026-08-22T12:41:53.837Z"
+  },
+  {
+    "_id": "4f4b5581-c3f5-4baa-a856-6aefebfb29ed",
+    "name": "Daniel",
+    "email": "daniel@gmail.com",
+    "password": "$2a$10$zQoCsIherKZwDDzef3fn/OK9TTsJ.fcUToVOB58/pE8IFIlgyJRmu",
+    "role": "student",
+    "onboardingComplete": false,
+    "onboardingData": null,
+    "createdAt": "2026-08-24T06:35:09.415Z",
+    "updatedAt": "2026-08-24T06:35:09.415Z"
+  },
+  {
+    "_id": "2244d681-4339-4620-baf3-68ddf3e1b3ff",
+    "name": "patrick",
+    "email": "patrick123@gmail.com",
+    "password": "$2a$10$WNmlnbwQhlDM9VeAdRNXYu/nqRpsnYP6Pq8n.aS8aSmWmdSH1ftAq",
+    "role": "student",
+    "onboardingComplete": true,
+    "onboardingData": {
+      "currentLevel": "Advanced",
+      "primaryGoal": "Career advancement",
+      "timeCommitment": "2–4 hours",
+      "education": "Master's degree",
+      "fieldOfStudy": "",
+      "workExperience": "6+ years",
+      "targetRole": "product manager",
+      "skillsToImprove": [
+        "Programming",
+        "Business Analysis",
+        "Human Resources"
+      ],
+      "budget": "",
+      "startDate": "2026-08-31",
+      "completionTimeline": "6 months",
+      "careerPath": {
+        "phases": {
+          "foundation": {
+            "courseIds": [
+              "local-course-7",
+              "local-course-6",
+              "local-course-4"
+            ],
+            "updatedAt": "2026-08-24T08:42:29.910Z"
+          }
+        }
+      }
+    },
+    "createdAt": "2026-08-24T08:40:03.523Z",
+    "updatedAt": "2026-08-24T08:42:29.911Z"
+  },
+  {
+    "_id": "d1ea18e0-d249-4aa3-908d-313dc0cfd510",
+    "name": "binciya",
+    "email": "aishaahmed2796@gmail.com",
+    "password": "$2a$10$u/2iFbgZkXZywDJx8qktr.99bXWJDJJi.jdtm7RZyQIbh6wJpU3mW",
+    "role": "employee",
+    "company": "",
+    "requiresPasswordReset": false,
+    "onboardingComplete": false,
+    "onboardingData": null,
+    "createdAt": "2026-08-24T08:46:29.703Z",
+    "updatedAt": "2026-08-24T08:46:56.612Z"
+  }
+]

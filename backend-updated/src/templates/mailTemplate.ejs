@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>Enrollment Confirmation</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        background: #f8f8f8;
+        margin: 0;
+        padding: 0;
+      }
+      .container {
+        max-width: 600px;
+        margin: 30px auto;
+        background: #ffffff;
+        padding: 25px;
+        border-radius: 10px;
+        box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+      }
+      .title {
+        font-size: 24px;
+        font-weight: bold;
+        margin-bottom: 15px;
+      }
+      .section-title {
+        font-size: 18px;
+        margin-top: 20px;
+        font-weight: bold;
+      }
+      p {
+        font-size: 15px;
+        line-height: 1.6em;
+        color: #333;
+      }
+      .footer {
+        margin-top: 30px;
+        font-size: 13px;
+        color: #666;
+        text-align: center;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <div class="title">📩 WEL.X – Enrollment Confirmation</div>
+
+      <p>
+        <strong>Subject:</strong> Welcome to WEL.X – Your Enrollment is
+        Confirmed!
+      </p>
+      <h3 class="section-title">Payment Status</h3>
+
+      <p>Your payment has been successfully received.</p>
+      <p>Your payment details are provided below.</p>
+
+      <h3 class="section-title">Payment Details</h3>
+
+      <table style="width: 100%; border-collapse: collapse; margin-top: 10px">
+        <tr>
+          <td style="padding: 8px 0; font-weight: bold">Course:</td>
+          <td style="padding: 8px 0"><%= courseName %></td>
+        </tr>
+        <tr>
+          <td style="padding: 8px 0; font-weight: bold">Amount Paid:</td>
+          <td style="padding: 8px 0">$<%= amount %></td>
+        </tr>
+        <tr>
+          <td style="padding: 8px 0; font-weight: bold">Stripe ID:</td>
+          <td style="padding: 8px 0"><%= stripeID %></td>
+        </tr>
+        <tr>
+          <td style="padding: 8px 0; font-weight: bold">Date:</td>
+          <td style="padding: 8px 0"><%= paymentDate %></td>
+        </tr>
+      </table>
+
+      <p>Your enrollment is now being processed.</p>
+      <p>Your official receipt is attached for your records.</p>
+
+      <p>We’re redefining learning with:</p>
+      <ul>
+        <li>AI-driven career pathways</li>
+        <li>Micro-credentials</li>
+        <li>Personalized upskilling journeys</li>
+      </ul>
+
+      <p>You’re now part of the future of learning.</p>
+
+      <h3 class="section-title">🟧 Need Help?</h3>
+
+      <p>
+        Simply reply to this email.<br />
+        Our support team is here for you — anytime.
+      </p>
+
+      <h3 class="section-title">Welcome Aboard</h3>
+
+      <p>
+        Welcome to WEL.X.<br />
+        Welcome to What’s Next.
+      </p>
+
+      <p>
+        Warm regards,<br />
+        <strong>Team WEL.X</strong>
+      </p>
+
+      <div class="footer">
+        📧 <a href="mailto:welx@wellingtoncampus.co">welx@wellingtoncampus.co</a
+        ><br />
+        🌐 <a href="https://www.mywelx.com/">https://www.mywelx.com/</a><br />
+        📞 +971542523926<br />
+        Dubai CommerCity | Powered by Wellington Campus
+      </div>
+    </div>
+  </body>
+</html>
